@@ -1,0 +1,16 @@
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\TheDiscordPresence.exe.config
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\TheDiscordPresence.exe
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\TheDiscordPresence.pdb
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\DiscordRPC.dll
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\DiscordRPC.pdb
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\DiscordRPC.xml
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.csproj.AssemblyReference.cache
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.Form1.resources
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.Properties.Resources.resources
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.csproj.GenerateResource.cache
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.csproj.CoreCompileInputs.cache
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.csproj.CopyComplete
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.exe
+C:\Users\dappe\Desktop\Coding\TheDiscordPresence2\TheDiscordPresence\TheDiscordPresence\obj\Debug\TheDiscordPresence.pdb
